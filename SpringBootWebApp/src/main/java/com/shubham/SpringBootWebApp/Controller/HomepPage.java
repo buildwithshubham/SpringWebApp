@@ -3,6 +3,7 @@ package com.shubham.SpringBootWebApp.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+//controller
 @RestController
 public class HomepPage {
 	
